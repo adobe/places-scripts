@@ -10,9 +10,9 @@ This project adheres to the Adobe [code of conduct](../CODE_OF_CONDUCT.md). By p
 you are expected to uphold this code. Please report unacceptable behavior to
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Have A Question?
+## Questions or Issues?
 
-Start by filing an issue. The existing committers on this project work to reach
+Start by filing an issue using the [issue template](ISSUE_TEMPLATE.md) . The existing committers on this project work to reach
 consensus around project direction and issue solutions within issue threads
 (when appropriate).
 
@@ -30,8 +30,7 @@ All submissions should come in the form of pull requests and need to be reviewed
 by project committers. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
 for more information on sending pull requests.
 
-Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
-submitting a pull request!
+Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when submitting a pull request!
 
 ## From Contributor To Committer
 
