@@ -30,7 +30,7 @@ required_keys = ['lib_id', 'name', 'description', 'type', 'longitude', 'latitude
                      'city', 'street', 'category', 'icon', 'color']
 
 valid_colors = ['', '#AA99E8', '#FC685B', '#3DC8DE', '#F6C436', '#3E76D0', '#DC2ABA', '#BECE5D', '#61B56B', '#FC962E']
-valid_icons = ['', 'anchor', 'beaker', 'bell', 'browse', 'book', 'brush', 'building', 'calculator', 'camera', 'shoppingCart', 'clock', 'box', 'flashlight', 'follow', 'bid', 'ribbon', 'education', 'hammer', 'heart', 'home', 'key', 'mailbox', 'male', 'promote', 'money', 'trap', 'game', 'gift', 'launch', 'star', 'lightbulb', 'pin', 'target', 'teapot', 'thumbDown', 'thumbUp', 'briefcase', 'trophy', 'female', 'wrench']
+valid_icons = ['', 'shop', 'hotelbed', 'car', 'airplane', 'train', 'ship', 'stadium', 'amusementpark', 'anchor', 'beaker', 'bell', 'bid', 'book', 'box', 'briefcase', 'browse', 'brush', 'building', 'calculator', 'camera', 'clock', 'education', 'flashlight', 'follow', 'game', 'female', 'male', 'gift', 'hammer', 'heart', 'home', 'key', 'launch', 'lightbulb', 'mailbox', 'money', 'pin', 'promote', 'ribbon', 'shoppingCart', 'star', 'target', 'teapot', 'thumbDown', 'thumbUp', 'trap', 'trophy', 'wrench']
 
 # Max number of POIs sent in each request
 batch_size = 1000
